@@ -1,0 +1,24 @@
+{
+  "name": "docker-demo-backend",
+  "version": "1.0.0",
+  "description": "demo for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajjayarathna/docker-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virajjayarathna/docker-demo/issues"
+  },
+  "homepage": "https://github.com/virajjayarathna/docker-demo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "redis": "^4.7.0"
+  }
+}
